@@ -126,10 +126,13 @@ header{
 }
 
 .bth--red{
-    background-color: #e84545;}
+    background-color: #e84545;
+}
 
 .bth--red:hover{
     background-color: #dd3434;
+    height: 40px;
+    width: 70px;
 }
 .features{
     display: flex;
